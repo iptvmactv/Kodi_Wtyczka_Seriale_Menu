@@ -1,0 +1,29 @@
+<channels>
+<channel>
+<name>[B][/B]</name>
+<thumbnail></thumbnail> Small pic
+<externallink></externallink>
+<fanart></fanart> Bic pic
+<info>[B][/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B][/B]</name>
+<thumbnail></thumbnail> Small pic
+<externallink></externallink>
+<fanart></fanart> Bic pic
+<info>[B][/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B][/B]</name>
+<thumbnail></thumbnail> Small pic
+<externallink></externallink>
+<fanart></fanart> Bic pic
+<info>[B][/B]</info>
+</channels>
+</channel>
