@@ -1,10 +1,10 @@
 <channels>
 <channel>
-<name>[B][/B]</name>
-<thumbnail></thumbnail> Small pic
-<externallink></externallink>
-<fanart></fanart> Bic pic
-<info>[B][/B]</info>
+<name>[B]Gwiezdne Wojny: Andor[/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/iptvmactv/Kodi_Wtyczka_Filmy_Seriale_AIO/main/Serial_Andor.txt</externallink>
+<fanart>https://www.streampicker.de/files/images/202209/0/star-wars-andor,971454_crop16x9_1280.jpg</fanart> Bic pic
+<info>[B]W niebezpiecznych czasach, pełnych intryg i zdrady, Cassian Andor przystępuje do walki z tyranią Imperium Galaktycznego. Wkrótce staje się bohaterem Rebelii[/B]</info>
 </channels>
 </channel>
 
